@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8sJ5P7UVtmp/QMAZwYuLUPPyyVdbAdfM6vudJykugzM1qyfE5/CNyAwUVU5/QWvOZIhFeDnAIX4WBjiQ8DbVXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SKAN\\Documents\\GitHub\\Coding_Assignment_1\\MountyHallProblem\\MountyHallProblem\\MountyHallProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SKAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\SKAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\SKAN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\SKAN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

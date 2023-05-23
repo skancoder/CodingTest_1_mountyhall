@@ -1,0 +1,15 @@
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\obj\Debug\net6.0\MountyHallProblem.csproj.AssemblyReference.cache
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\obj\Debug\net6.0\MountyHallProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\obj\Debug\net6.0\MountyHallProblem.AssemblyInfoInputs.cache
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\obj\Debug\net6.0\MountyHallProblem.AssemblyInfo.cs
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\obj\Debug\net6.0\MountyHallProblem.csproj.CoreCompileInputs.cache
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\bin\Debug\net6.0\MountyHallProblem.exe
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\bin\Debug\net6.0\MountyHallProblem.deps.json
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\bin\Debug\net6.0\MountyHallProblem.runtimeconfig.json
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\bin\Debug\net6.0\MountyHallProblem.dll
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\bin\Debug\net6.0\MountyHallProblem.pdb
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\obj\Debug\net6.0\MountyHallProblem.dll
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\obj\Debug\net6.0\refint\MountyHallProblem.dll
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\obj\Debug\net6.0\MountyHallProblem.pdb
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\obj\Debug\net6.0\MountyHallProblem.genruntimeconfig.cache
+C:\Users\SKAN\Documents\GitHub\Coding_Assignment_1\MountyHallProblem\MountyHallProblem\obj\Debug\net6.0\ref\MountyHallProblem.dll
